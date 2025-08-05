@@ -1,0 +1,5 @@
+include(CMakeFindDependencyMacro)
+
+# ToDo: Dependencies
+
+include("${CMAKE_CURRENT_LIST_DIR}/plutobook-targets.cmake")
